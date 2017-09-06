@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rodoviaria", "Rodoviaria\Rodoviaria.csproj", "{3DDD3620-93B3-49A8-BDB8-0CDAF2CD56B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RodoviariaADO", "RodoviariaADO\RodoviariaADO.csproj", "{8D6F930F-389C-4312-A6F6-31AFFF855589}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RodoviariaADOTests", "RodoviariaADOTests\RodoviariaADOTests.csproj", "{8B251EE2-D76D-4233-85FC-6DB6154257FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{3DDD3620-93B3-49A8-BDB8-0CDAF2CD56B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DDD3620-93B3-49A8-BDB8-0CDAF2CD56B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DDD3620-93B3-49A8-BDB8-0CDAF2CD56B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D6F930F-389C-4312-A6F6-31AFFF855589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6F930F-389C-4312-A6F6-31AFFF855589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6F930F-389C-4312-A6F6-31AFFF855589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6F930F-389C-4312-A6F6-31AFFF855589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B251EE2-D76D-4233-85FC-6DB6154257FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B251EE2-D76D-4233-85FC-6DB6154257FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B251EE2-D76D-4233-85FC-6DB6154257FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B251EE2-D76D-4233-85FC-6DB6154257FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
