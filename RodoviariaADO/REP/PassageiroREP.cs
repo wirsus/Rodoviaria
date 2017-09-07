@@ -45,7 +45,6 @@ namespace RodoviariaADO
             parametros.Add(new SqlParameter("dt_nascimento", passageiro.Nascimento));
             parametros.Add(new SqlParameter("nr_dinheiro", passageiro.Dinheiro));
 
-
             return parametros.ToArray();
         }
 

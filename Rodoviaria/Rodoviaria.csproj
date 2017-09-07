@@ -147,7 +147,7 @@
     </Compile>
     <Compile Include="Models\Onibus.cs" />
     <Compile Include="Models\Passageiro.cs" />
-    <Compile Include="Models\Destino.cs" />
+    <Compile Include="Models\Cidade.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
